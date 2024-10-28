@@ -22,13 +22,13 @@ Para executar **FURIACS** localmente, execute este comando em seu git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/gamex.git
+sudo git clone https://github.com/BooneMalay19/FURIACS---Landing-Page.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/gamex.git
+git clone https://github.com/BooneMalay19/FURIACS---Landing-Page.git
 ```
 
 ### Contact
