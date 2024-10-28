@@ -4,7 +4,7 @@
 
   Essa é uma página onde não só dedido amor a FURIA através do visual, mas sim no códido, amo CS desde criança, e a FURIA transformou o cenário e mudoua visão de como é ser um time, demonstrei um pouco da minha capacidade apenas com HTML, CSS com o uso do Media Queries para responsividade e JavaScript, porém sempre estou pronto pra desafios maiores como implementar com algum framework ou biblioteca mais avançadas e mesclar com minhas habilidades de design UI/UX
 
-  <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://furiacs-landing-page.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
