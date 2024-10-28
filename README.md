@@ -1,19 +1,8 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/gamex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/gamex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/gamex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BK9_voy6VXU?style=social)](https://youtu.be/BK9_voy6VXU)
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+  <h2 align="center">FURIA - LANDING PAGE</h2>
 
-  <h2 align="center">GameX - Gaming website</h2>
-
-  GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Essa é uma página onde não só dedido amor a FURIA através do visual, mas sim no códido, amo CS desde criança, e a FURIA transformou o cenário e mudoua visão de como é ser um time, demonstrei um pouco da minha capacidade apenas com HTML, CSS e JavaScript, porém sempre estou pronto pra desafios maiores como implementar com algum framework ou biblioteca mais avançadas e mesclar com minhas habilidades de design UI/UX
 
   <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
 
@@ -21,19 +10,14 @@
 
 <br />
 
-### Demo Screeshots
+### Pré-requisitos
 
-![GameX Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+Antes de começar, certifique-se de atender aos seguintes requisitos:
+* [Git](https://git-scm.com/downloads "Baixar Git") deve estar instalado em seu sistema operacional.
 
-### Prerequisites
+### Execute Localmente
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **GameX** locally, run this command on your git bash:
+Para executar **FURIACS** localmente, execute este comando em seu git bash:
 
 Linux and macOS:
 
@@ -49,8 +33,8 @@ git clone https://github.com/codewithsadee/gamex.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Se você quiser entrar em contato comigo, pode entrar em contato comigo pelo [Email](boonemalay1@gmail.com)
 
 ### License
 
-This project is **free to use** and does not contains any license.
+Esse projeto contém imagens criadas e divulgadas pela própria Furia, esse projeto está totalmente ligado ao processo seletivo do programa junto com a Cruzeiro do Sul para estágio.
