@@ -650,6 +650,75 @@ body.active { overflow-y: hidden; }
   }
 }
 
+.matches-section {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.match-card {
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+  width: 100%;
+  max-width: 350px;
+  text-align: center;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.team-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.team-images img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.match-card h3 {
+  margin: 10px 0 5px;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.match-card p {
+  margin: 5px 0;
+  color: #555;
+}
+
+/* Responsividade */
+@media (min-width: 528px) {
+  .matches-section {
+    padding: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .match-card {
+    max-width: 300px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .match-card {
+    max-width: 280px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .matches-section {
+    gap: 30px;
+  }
+}
 
 /*-----------------------------------*\
   #Galeria
@@ -691,6 +760,7 @@ body.active { overflow-y: hidden; }
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
+  margin-bottom: 20px;
 }
 
 /* Estilo padrão de cada vídeo */
